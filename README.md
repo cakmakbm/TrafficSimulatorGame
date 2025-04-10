@@ -5,10 +5,7 @@ A JavaFX-based traffic control simulation game developed as a final project for 
 ## 👥 Authors
 
 - Berat Metehan Çakmak  
-- Eray Hoşavcıoğlu
-
-## 📅 Submitted on: May 9, 2024  
-## 🧑‍🏫 Instructor: Büşra Arabacı
+- Eray Hoşavcıoğlu 
 
 ---
 
