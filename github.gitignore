@@ -1,0 +1,15 @@
+# Java derleme dosyaları
+*.class
+
+# IDEA proje dosyaları
+.idea/
+*.iml
+
+# Derleme klasörleri
+/out/
+/bin/
+/target/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
